@@ -1,2 +1,3 @@
 # Hello-World
-Computer Programming Tradition
+Computer Programming Tradion
+I am a data sceientist with passion for christ
